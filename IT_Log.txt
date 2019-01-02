@@ -1,0 +1,65 @@
+2019-01-02 01:20     The current average Integer is is 2.111111111111111
+2019-01-02 01:21     Instantiating Variables
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 1
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 1
+2019-01-02 01:21     The current min Integer is is 1
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 1.0
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 1
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 1
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 0.5
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 4
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 3
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 1.3333333333333333
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 5
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 3
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 1.25
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 9
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 4
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 1.8
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 14
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 5
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 2.3333333333333335
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 19
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 5
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 1
+2019-01-02 01:21     The current average Integer is is 2.7142857142857144
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 24
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 5
+2019-01-02 01:21     The current min Integer is is 0
+2019-01-02 01:21     The current most frequent Integer is is 5
+2019-01-02 01:21     The current average Integer is is 3.0
+2019-01-02 01:21     Incrementing Number of trackers active
+2019-01-02 01:21     Number of Trackers total is 19
+2019-01-02 01:21     Adding to the list of trackers
+2019-01-02 01:21     The current max Integer is is 5
+2019-01-02 01:21     The current min Integer is is -5
+2019-01-02 01:21     The current most frequent Integer is is 5
+2019-01-02 01:21     The current average Integer is is 2.111111111111111
